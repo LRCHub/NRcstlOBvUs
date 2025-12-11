@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "境界線",
+  "base_artist": "amazarashi",
+  "createdAt": "2025-12-11T09:48:24.254081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "境界線",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_境界線_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "境界線 (Naeleck Remix) - SACRA BEATS Singles",
+      "artist": "amazarashi feat. Naeleck",
+      "has_synced": true,
+      "path": "select/02_境界線_(Naeleck_Remix)_-_SACRA_BEATS_Singles_amazarashi_feat._Naeleck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "境界線 (Naeleck Remix) - SACRA BEATS Singles",
+      "artist": "amazarashi/Naeleck",
+      "has_synced": true,
+      "path": "select/03_境界線_(Naeleck_Remix)_-_SACRA_BEATS_Singles_amazarashi_Naeleck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "境界線",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_境界線_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "境界線 (Naeleck Remix) - SACRA BEATS Singles",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_境界線_(Naeleck_Remix)_-_SACRA_BEATS_Singles_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "境界線",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/06_境界線_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "境界線 - kyoukaisen",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/07_境界線_-_kyoukaisen_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "amazarashi『境界線』Music Video",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/08_amazarashi『境界線』Music_Video_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "境界線",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/09_境界線_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "境界線",
+      "artist": "NGT48",
+      "has_synced": true,
+      "path": "select/10_境界線_NGT48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "境界線",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_境界線_amazarashi.txt"
+    }
+  ]
+}
